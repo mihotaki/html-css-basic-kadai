@@ -59,10 +59,10 @@ footer{
 a{
   color:rgb(255, 255, 255);
 }
-a::visited{
+a:visited{
   color:rgb(193, 234, 251);
 }
-a::hover{
+a:hover{
   color:rgb(245, 178, 168);
 }
 
